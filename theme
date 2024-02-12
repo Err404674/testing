@@ -1,0 +1,16 @@
+{
+    "name": "i hate january",
+    "description": "january sucks",
+    "authors": [
+        {
+            "name": "jboehrb the third",
+            "id": "902619177934786570"
+        }
+    ],
+
+    "background": {
+        "blur": 0.5,
+        "url": "https://media.discordapp.net/attachments/1079403185174757416/1203732029284294706/6434722de6e69a6b944a707a.gif ",
+        "alpha": 1
+    }
+}
